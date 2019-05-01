@@ -1,3 +1,18 @@
+# Angular-02
+
+* Bootstrap
+* Componentes
+* RouterLink
+* MenuComponent
+* Modulo paginas
+* LazyLoad de PostsComponents
+* Servicios y data externa
+* POST
+* @input
+* @Output
+
+
+
 # Angularbases
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
